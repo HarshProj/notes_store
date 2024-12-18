@@ -6,9 +6,6 @@ You can check out the live version of the app here: [Notes Store](https://notes-
 
 ![image](https://github.com/user-attachments/assets/c1ffd503-4f93-4126-96c1-722f5a0e99f7)
 ![image](https://github.com/user-attachments/assets/43325331-b967-414f-9b90-2035105c631e)
-![image](https://github.com/user-attachments/assets/552b78ae-2e4c-4489-9be8-238b02c5ed3a)
-![image](https://github.com/user-attachments/assets/c1f8db80-d66b-42a2-b6be-19f273ba4b43)
-
 
 ## Features
 
