@@ -5,7 +5,6 @@ Welcome to the **Notes Store** app! This is a web-based application built using 
 You can check out the live version of the app here: [Notes Store](https://notes-store-app.vercel.app/).
 
 ![image](https://github.com/user-attachments/assets/c1ffd503-4f93-4126-96c1-722f5a0e99f7)
-![image](https://github.com/user-attachments/assets/43325331-b967-414f-9b90-2035105c631e)
 
 ## Features
 
